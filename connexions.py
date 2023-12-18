@@ -1,6 +1,5 @@
 #! /usr/bin/env python
-# from Tkinter import *
-# Esta es la de antes --import Tkinter
+
 import tkinter as Tkinter
 from tkinter import Canvas
 import RPi.GPIO as GPIO
